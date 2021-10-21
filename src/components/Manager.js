@@ -1,5 +1,5 @@
-import manager_one from "../mock-data/manager_one.json";
-import Managerone from "./Manager_one";
+// import manager_one from "../mock-data/manager_one.json";
+// import Managerone from "./Manager_one";
 
 const Manager = ({
   id,
