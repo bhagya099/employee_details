@@ -104,16 +104,21 @@ body {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
+  
   width: 40%;
   margin: 1rem;
   }
-
-
+/* for effect */
+ .emp_card {
+  transition: 0.3s;
+ }
+ .emp_card:hover {
+  transform: scale(0.9);
+ }
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   background-color: #9da9da65;;
-  transform: scale(0.9);
+ 
 }
 
 .container {
