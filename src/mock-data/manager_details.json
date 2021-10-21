@@ -5,7 +5,7 @@
     "lastName": "Flacknoe",
     "email": "fflacknoe0@hc360.com",
     "reporting_manager": 31,
-    "reports_to": "Trip",
+    "reports_to": "Trip Clutton",
     "contact_number": 98764372
   },
   {
@@ -14,7 +14,7 @@
     "lastName": "Braunstein",
     "email": "bbraunstein1@wordpress.com",
     "reporting_manager": 31,
-    "reports_to": "Trip",
+    "reports_to": "Trip Clutton",
     "contact_number": 98764372
   },
   {
@@ -23,7 +23,7 @@
     "lastName": "Rustedge",
     "email": "prustedge2@alexa.com",
     "reporting_manager": 32,
-    "reports_to": "Amargo",
+    "reports_to": "Amargo Walmsely",
     "contact_number": 98764372
   },
   {
@@ -32,7 +32,7 @@
     "lastName": "Ion",
     "email": "kion3@java.com",
     "reporting_manager": 32,
-    "reports_to": "Amargo",
+    "reports_to": "Amargo Walmsely",
     "contact_number": 98764372
   },
   {
@@ -41,7 +41,7 @@
     "lastName": "Olivi",
     "email": "eolivi4@spiegel.de",
     "reporting_manager": 33,
-    "reports_to": "Johanna",
+    "reports_to": "Johanna Stoffels",
     "contact_number": 98764372
   }
 ]

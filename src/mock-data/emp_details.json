@@ -6,7 +6,7 @@
     "email": "gmarkson0@symantec.com",
     "skill": ["HTML,CSS,Java Script,React JS,"],
     "reporting_manager": 21,
-    "reports_to": "Farrah",
+    "reports_to": "Farrah  Flacknoe",
     "contact_number": 98764372
   },
   {
@@ -16,7 +16,7 @@
     "email": "kpinor1@blogs.com",
     "skill": ["Salesforce,SAP,visual fourse,LWC"],
     "reporting_manager": 22,
-    "reports_to": "Bat",
+    "reports_to": "Bat Braunstein",
     "contact_number": 98764372
   },
   {
@@ -26,7 +26,7 @@
     "email": "pstot2@hugedomains.com",
     "skill": ["Python,JAVA,SQL"],
     "reporting_manager": 23,
-    "reports_to": "Patronille",
+    "reports_to": "Patronille Rustedge",
     "contact_number": 98764372
   },
   {
@@ -36,7 +36,7 @@
     "email": "rmcfaul3@umn.edu",
     "skill": ["Python,JAVA,SQL"],
     "reporting_manager": 24,
-    "reports_to": "Kirboy",
+    "reports_to": "Kirboy Iron",
     "contact_number": 98764372
   },
   {
@@ -46,7 +46,7 @@
     "email": "jcorkel4@oracle.com",
     "skill": ["HTML,CSS,Java Script,Express JS,SQL"],
     "reporting_manager": 25,
-    "reports_to": "Emmalyn",
+    "reports_to": "Emmalyn Olivi",
     "contact_number": 98764372
   },
   {
@@ -56,7 +56,7 @@
     "email": "rkynge5@youtube.com",
     "skill": ["HTML,CSS,Js,Express JS,SQL"],
     "reporting_manager": 21,
-    "reports_to": "Farrah",
+    "reports_to": "Farrah Flacknoe",
     "contact_number": 98764372
   },
   {
@@ -66,7 +66,7 @@
     "email": "hwank6@wikimedia.org",
     "skill": ["HTML,", "CSS,", "Js,", "Express JS,", "SQL"],
     "reporting_manager": 23,
-    "reports_to": "Patronille",
+    "reports_to": "Patronille Rustedge",
     "contact_number": 98764372
   },
   {
@@ -76,7 +76,7 @@
     "email": "btartt7@theatlantic.com",
     "skill": ["Java,", "Python,", "Kotlin"],
     "reporting_manager": 22,
-    "reports_to": "Bat",
+    "reports_to": "Bat Braunstein",
     "contact_number": 98764372
   },
   {
@@ -86,7 +86,7 @@
     "email": "ckeaton8@stumbleupon.com",
     "skill": ["Java,", "Python,", "Kotlin"],
     "reporting_manager": 24,
-    "reports_to": "Kirboy",
+    "reports_to": "Kirboy Iron",
     "contact_number": 98764372
   },
   {
@@ -96,7 +96,7 @@
     "email": "amcelvine9@github.io",
     "skill": ["Java Script,", "Nodejs", "ReactJS"],
     "reporting_manager": 25,
-    "reports_to": "Emmalyn",
+    "reports_to": "Emmalyn Olivi",
     "contact_number": 98764372
   },
   {
@@ -113,7 +113,7 @@
       "ReactJS"
     ],
     "reporting_manager": 21,
-    "reports_to": "Farrah",
+    "reports_to": "Farrah Flacknoe",
     "contact_number": 98764372
   },
   {
@@ -123,7 +123,7 @@
     "email": "hoddeb@spiegel.de",
     "skill": ["Data Analystic,", "SQL,", "JAVA"],
     "reporting_manager": 23,
-    "reports_to": "Patronille",
+    "reports_to": "Patronille Rustedge",
     "contact_number": 98764372
   },
   {
@@ -133,7 +133,7 @@
     "email": "lferrickc@arstechnica.com",
     "skill": ["Data Analystic,", "SQL,", "JAVA"],
     "reporting_manager": 22,
-    "reports_to": "Bat",
+    "reports_to": "Bat Braunstein",
     "contact_number": 98764372
   },
   {
@@ -143,7 +143,7 @@
     "email": "drehnd@blogs.com",
     "skill": ["Java Script,", "React JS,"],
     "reporting_manager": 24,
-    "reports_to": "Kirboy",
+    "reports_to": "Kirboy  Iron",
     "contact_number": 98764372
   },
   {
@@ -153,7 +153,7 @@
     "email": "lbuchere@msu.edu",
     "skill": ["JAVA"],
     "reporting_manager": 25,
-    "reports_to": "Emmalyn",
+    "reports_to": "Emmalyn Olivi",
     "contact_number": 98764372
   },
   {
@@ -163,7 +163,7 @@
     "email": "ahalvosenf@mlb.com",
     "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
     "reporting_manager": 21,
-    "reports_to": "Farrah",
+    "reports_to": "Farrah Flacknoe",
     "contact_number": 98764372
   },
   {
@@ -173,7 +173,7 @@
     "email": "ehastg@jimdo.com",
     "skill": ["Kotlin,", "Java Script"],
     "reporting_manager": 22,
-    "reports_to": "Bat",
+    "reports_to": "Bat Braunstein",
     "contact_number": 98764372
   },
   {
@@ -183,7 +183,7 @@
     "email": "agartlandh@1und1.de",
     "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
     "reporting_manager": 23,
-    "reports_to": "Patronille",
+    "reports_to": "Patronille Rustedge",
     "contact_number": 98764372
   },
   {
@@ -193,7 +193,7 @@
     "email": "tbalseri@dailymotion.com",
     "skill": ["Java Script,", "Python,", "Express js"],
     "reporting_manager": 24,
-    "reports_to": "Kirboy",
+    "reports_to": "Kirboy Iron",
     "contact_number": 98764372
   },
   {
@@ -203,7 +203,7 @@
     "email": "fchallenerj@berkeley.edu",
     "skill": ["SQL", "Express js"],
     "reporting_manager": 25,
-    "reports_to": "Emmalyn",
+    "reports_to": "Emmalyn Olivi",
     "contact_number": 98764372
   }
 ]

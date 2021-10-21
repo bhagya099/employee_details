@@ -16,7 +16,7 @@ export const Employee = (props) => {
   const [show, setShow] = useState(false);
   return (
     <>
-      <div className="card">
+      <div className="emp_card card">
         <div className="container" key={id}>
           <h4>First Name : {firstName}</h4>
           <h4>Last Name : {lastName}</h4>
