@@ -3,6 +3,7 @@ const Founder = ({ id, firstName, lastName, mail, contact_number }) => {
   return (
     <div className="card">
       <div className="container">
+        <h2>Fonder of the company</h2>
         <h4>First Name : {firstName}</h4>
         <h4>Last Name : {lastName}</h4>
         <h4>Email : {mail}</h4>
