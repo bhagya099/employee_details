@@ -4,7 +4,7 @@ export const Search = (props) => {
     <div className="SearchBar">
       <input
         type="text"
-        placeholder="Enter A skill"
+        placeholder="Enter A Skill eg. Python or Java"
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
