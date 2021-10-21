@@ -5,7 +5,7 @@
     "lastName": "Markson",
     "email": "gmarkson0@symantec.com",
     "skill": ["HTML,CSS,Java Script,React JS,"],
-    "reporting_manager": 1,
+    "reporting_manager": 21,
     "contact_number": 98764372
   },
   {
@@ -14,7 +14,7 @@
     "lastName": "Pinor",
     "email": "kpinor1@blogs.com",
     "skill": ["Salesforce,SAP,visual fourse,LWC"],
-    "reporting_manager": 2,
+    "reporting_manager": 22,
     "contact_number": 98764372
   },
   {
@@ -23,7 +23,7 @@
     "lastName": "Stot",
     "email": "pstot2@hugedomains.com",
     "skill": ["Python,JAVA,SQL"],
-    "reporting_manager": 3,
+    "reporting_manager": 23,
     "contact_number": 98764372
   },
   {
@@ -32,7 +32,7 @@
     "lastName": "Mc Faul",
     "email": "rmcfaul3@umn.edu",
     "skill": ["Python,JAVA,SQL"],
-    "reporting_manager": 4,
+    "reporting_manager": 24,
     "contact_number": 98764372
   },
   {
@@ -41,7 +41,7 @@
     "lastName": "Corkel",
     "email": "jcorkel4@oracle.com",
     "skill": ["HTML,CSS,Java Script,Express JS,SQL"],
-    "reporting_manager": 5,
+    "reporting_manager": 25,
     "contact_number": 98764372
   },
   {
@@ -50,7 +50,7 @@
     "lastName": "Kynge",
     "email": "rkynge5@youtube.com",
     "skill": ["HTML,CSS,Js,Express JS,SQL"],
-    "reporting_manager": 1,
+    "reporting_manager": 21,
     "contact_number": 98764372
   },
   {
@@ -59,7 +59,7 @@
     "lastName": "Wank",
     "email": "hwank6@wikimedia.org",
     "skill": ["HTML,", "CSS,", "Js,", "Express JS,", "SQL"],
-    "reporting_manager": 3,
+    "reporting_manager": 23,
     "contact_number": 98764372
   },
   {
@@ -68,7 +68,7 @@
     "lastName": "Tartt",
     "email": "btartt7@theatlantic.com",
     "skill": ["Java,", "Python,", "Kotlin"],
-    "reporting_manager": 2,
+    "reporting_manager": 22,
     "contact_number": 98764372
   },
   {
@@ -77,7 +77,7 @@
     "lastName": "Keaton",
     "email": "ckeaton8@stumbleupon.com",
     "skill": ["Java,", "Python,", "Kotlin"],
-    "reporting_manager": 4,
+    "reporting_manager": 24,
     "contact_number": 98764372
   },
   {
@@ -86,7 +86,7 @@
     "lastName": "McElvine",
     "email": "amcelvine9@github.io",
     "skill": ["Java Script,", "Nodejs", "ReactJS"],
-    "reporting_manager": 5,
+    "reporting_manager": 25,
     "contact_number": 98764372
   },
   {
@@ -102,7 +102,7 @@
       "Nodejs,",
       "ReactJS"
     ],
-    "reporting_manager": 1,
+    "reporting_manager": 21,
     "contact_number": 98764372
   },
   {
@@ -111,7 +111,7 @@
     "lastName": "Odde",
     "email": "hoddeb@spiegel.de",
     "skill": ["Data Analystic,", "SQL,", "JAVA"],
-    "reporting_manager": 3,
+    "reporting_manager": 23,
     "contact_number": 98764372
   },
   {
@@ -120,7 +120,7 @@
     "lastName": "Ferrick",
     "email": "lferrickc@arstechnica.com",
     "skill": ["Data Analystic,", "SQL,", "JAVA"],
-    "reporting_manager": 2,
+    "reporting_manager": 22,
     "contact_number": 98764372
   },
   {
@@ -129,7 +129,7 @@
     "lastName": "Rehn",
     "email": "drehnd@blogs.com",
     "skill": ["Java Script,", "React JS,"],
-    "reporting_manager": 4,
+    "reporting_manager": 24,
     "contact_number": 98764372
   },
   {
@@ -138,7 +138,7 @@
     "lastName": "Bucher",
     "email": "lbuchere@msu.edu",
     "skill": ["JAVA"],
-    "reporting_manager": 5,
+    "reporting_manager": 25,
     "contact_number": 98764372
   },
   {
@@ -147,7 +147,7 @@
     "lastName": "Halvosen",
     "email": "ahalvosenf@mlb.com",
     "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
-    "reporting_manager": 1,
+    "reporting_manager": 21,
     "contact_number": 98764372
   },
   {
@@ -156,7 +156,7 @@
     "lastName": "Hast",
     "email": "ehastg@jimdo.com",
     "skill": ["Kotlin,", "Java Script"],
-    "reporting_manager": 2,
+    "reporting_manager": 22,
     "contact_number": 98764372
   },
   {
@@ -165,7 +165,7 @@
     "lastName": "Gartland",
     "email": "agartlandh@1und1.de",
     "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
-    "reporting_manager": 3,
+    "reporting_manager": 23,
     "contact_number": 98764372
   },
   {
@@ -174,7 +174,7 @@
     "lastName": "Balser",
     "email": "tbalseri@dailymotion.com",
     "skill": ["Java Script,", "Python,", "Express js"],
-    "reporting_manager": 4,
+    "reporting_manager": 24,
     "contact_number": 98764372
   },
   {
@@ -183,7 +183,7 @@
     "lastName": "Challener",
     "email": "fchallenerj@berkeley.edu",
     "skill": ["SQL", "Express js"],
-    "reporting_manager": 5,
+    "reporting_manager": 25,
     "contact_number": 98764372
   }
 ]

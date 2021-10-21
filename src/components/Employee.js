@@ -45,6 +45,7 @@ export const Employee = (props) => {
               contact_number={manager.contact_number}
               show={show}
               onClose={() => setShow(false)}
+              reporting_manager={manager.reporting_manager}
             />
           ))}
       </div>
