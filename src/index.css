@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 
 
 html {
@@ -15,17 +17,29 @@ html {
 
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   height: 100vh;
   width: 100vw;
+  background-color: rgb(237, 235, 235);
   
 }
 
-h2{
+.header h1{
   text-align: center;
-  margin-top: 2rem;
+  padding-top: 3rem;
 }
+ p{
+   text-align: center;
+ }
+
+.header {
+  background-color: #010c3f;
+  color:bisque;
+  
+  height: 250px;
+}
+
 
 .emph1 {
   text-align: center;
@@ -40,24 +54,24 @@ h2{
 }
 /* for modal div */
 
-.hidden {
+/* .hidden {
   display: none;
-}
+} */
 .modal {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(232, 232, 232, 0.6);
-  backdrop-filter: blur(3px);
+  background-color: rgba(232, 232, 232,0.6);
+  backdrop-filter: blur(1px);
   z-index: 1;
 }
 
 .close-modal {
   position: absolute;
-  top: 1.2rem;
-  right: 2rem;
+  top: 1rem;
+  right: 6rem;
   font-size: 2rem;
   color: #333;
   cursor: pointer;
@@ -69,8 +83,8 @@ h2{
   position: absolute;
   left: 50%;
   transform: translate(-50%);
-  width: 80%;
-  background-color: white;
+  width: 100%;
+  background-color: rgba(232, 232, 232);
   padding: 20px;
   margin: 15% auto;
   border-radius: 5px;
@@ -95,10 +109,14 @@ h2{
 
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  background-color: #010c3f65;;
 }
 
 .container {
   text-align: center;
+  color: #010c3f;
+  font-weight:lighter;
+  /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
   /* padding: 2px 16px; */
 }
 

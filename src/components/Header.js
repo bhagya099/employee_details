@@ -1,7 +1,8 @@
 export const Header = () => {
   return (
-    <header>
-      <h2>Search Employee by skill</h2>
+    <header className="header">
+      <h1>Welcome to the digital search</h1>
+      <p>Search Employee by skill</p>
     </header>
   );
 };

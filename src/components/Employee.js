@@ -11,6 +11,7 @@ export const Employee = (props) => {
     reporting_manager,
     contact_number,
     email,
+    reports_to,
   } = props;
   const [show, setShow] = useState(false);
   return (
@@ -21,7 +22,9 @@ export const Employee = (props) => {
           <h4>Last Name : {lastName}</h4>
           <h4>Email : {email}</h4>
           <h4>Skill : {skill}</h4>
+
           <h4>Contact : {contact_number}</h4>
+          <h4>Reports To : {reports_to}</h4>
           <button className="SearchButton" onClick={() => setShow(true)}>
             Manager details
           </button>
@@ -46,6 +49,7 @@ export const Employee = (props) => {
               show={show}
               onClose={() => setShow(false)}
               reporting_manager={manager.reporting_manager}
+              reports_to={manager.reports_to}
             />
           ))}
       </div>

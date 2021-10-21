@@ -10,6 +10,7 @@ const Manager = ({
   show,
   onClose,
   reporting_manager,
+  reports_to,
 }) => {
   if (!show) {
     return null;
@@ -27,10 +28,11 @@ const Manager = ({
               <h4>Last Name : {lastName}</h4>
               <h4>Email : {mail}</h4>
               <h4>Contact : {contact_number}</h4>
+              <h4>Reports To : {reports_to}</h4>
             </div>
           </div>
 
-          {manager_one
+          {/* {manager_one
             .filter((manager) => {
               if (reporting_manager === manager.id) {
                 return manager;
@@ -47,7 +49,7 @@ const Manager = ({
                 contact_number={manager.contact_number}
                 reporting_manager={manager.reporting_manager}
               />
-            ))}
+            ))} */}
         </div>
       </div>
     </>

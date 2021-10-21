@@ -11,7 +11,7 @@ export const Search = (props) => {
       <button
         type="submit"
         className="SearchButton"
-        onClick={() => alert("Hello")}
+        // onClick={() => alert("Please fill the")}
       >
         SEARCH
       </button>
