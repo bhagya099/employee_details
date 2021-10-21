@@ -1,11 +1,11 @@
 import EmployeeList from "./components/EmployeeList";
 import "../src/index.css";
-// import { Header } from "./components/Header";
+import { Header } from "./components/Header";
 
 const App = () => {
   return (
     <>
-      {/* <Header /> */}
+      <Header />
       <EmployeeList />
     </>
   );

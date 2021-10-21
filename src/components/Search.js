@@ -8,7 +8,11 @@ export const Search = (props) => {
         value={search}
         onChange={(e) => setSearch(e.target.value)}
       />
-      <button type="submit" className="SearchButton">
+      <button
+        type="submit"
+        className="SearchButton"
+        onClick={() => alert("Hello")}
+      >
         SEARCH
       </button>
     </div>

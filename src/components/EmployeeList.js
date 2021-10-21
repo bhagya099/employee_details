@@ -2,23 +2,8 @@ import { Employee } from "./Employee";
 //import Data from "../MOCK_DATA.json";
 import { Search } from "./Search";
 import { useState } from "react";
+
 const emp_details = [
-  {
-    id: 1,
-    firstName: "Anil",
-    lastName: "Kumar",
-    skill: ["HTML,", "CSS,", "Java Script,", "React JS"],
-    reporting_manager: "",
-    contact_number: 98764372,
-  },
-  {
-    id: 2,
-    firstName: "Ben",
-    lastName: "Kim",
-    skill: "Salesforce",
-    reporting_manager: "",
-    contact_number: 98764372,
-  },
   {
     id: 3,
     firstName: "Bhagyashree",
@@ -31,7 +16,7 @@ const emp_details = [
     id: 4,
     firstName: "Abhishek",
     lastName: "Shakrawar",
-    skill: "Salesforce",
+    skill: ["HTML"],
     reporting_manager: 2,
     contact_number: 98764372,
   },
@@ -43,19 +28,19 @@ const EmployeeList = () => {
     <div>
       <Search search={search} setSearch={setSearch} />
       <h1 className="emph1">All Employess details</h1>
+
       <div className="card-section">
         {emp_details
-          .filter((data) => {
-            console.log(data);
-            console.log(search);
-            // if (search === " ") {
-            //   return data;
-            // } else if (
-            //   data.skil.toLowerCase().includes(search.toLowerCase())
-            // ) {
-            //   return data;
-            // }
-            return data;
+          .filter((employee) => {
+            if (search === "") {
+              return employee;
+            } else if (
+              employee.skill.find((skill) =>
+                skill.toLowerCase().includes(search.toLowerCase())
+              )
+            ) {
+              return employee;
+            }
           })
           .map((emp) => (
             <Employee

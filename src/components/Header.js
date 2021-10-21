@@ -1,9 +1,7 @@
-import { Search } from "./Search";
-
 export const Header = () => {
   return (
     <header>
-      <Search />
+      <h2>Search Employee by skill</h2>
     </header>
   );
 };
