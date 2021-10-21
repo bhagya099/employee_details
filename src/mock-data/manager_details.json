@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Anil",
+    "lastName": "Kumar",
+    "email": "anil@gmial.com",
+    "contact_number": 98764372
+  },
+  {
+    "id": 2,
+    "firstName": "Ben",
+    "lastName": "Kim",
+    "email": "anil@gmial.com",
+    "contact_number": 98764372
+  },
+  {
+    "id": 3,
+    "firstName": "Suresh",
+    "lastName": "Kumar",
+    "email": "anil@gmial.com",
+    "contact_number": 98764372
+  },
+  {
+    "id": 4,
+    "firstName": "Jake",
+    "lastName": "Kim",
+    "email": "anil@gmial.com",
+    "contact_number": 98764372
+  },
+  {
+    "id": 5,
+    "firstName": "Jake",
+    "lastName": "Kim",
+    "email": "anil@gmial.com",
+    "contact_number": 98764372
+  }
+]

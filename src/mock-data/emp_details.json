@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "firstName": "Glenden",
+    "lastName": "Markson",
+    "email": "gmarkson0@symantec.com",
+    "skill": ["HTML,CSS,Java Script,React JS,"],
+    "reporting_manager": 1,
+    "contact_number": 98764372
+  },
+  {
+    "id": 2,
+    "firstName": "Kinsley",
+    "lastName": "Pinor",
+    "email": "kpinor1@blogs.com",
+    "skill": ["Salesforce,SAP,visual fourse,LWC"],
+    "reporting_manager": 2,
+    "contact_number": 98764372
+  },
+  {
+    "id": 3,
+    "firstName": "Phylis",
+    "lastName": "Stot",
+    "email": "pstot2@hugedomains.com",
+    "skill": ["Python,JAVA,SQL"],
+    "reporting_manager": 3,
+    "contact_number": 98764372
+  },
+  {
+    "id": 4,
+    "firstName": "Roobbie",
+    "lastName": "Mc Faul",
+    "email": "rmcfaul3@umn.edu",
+    "skill": ["Python,JAVA,SQL"],
+    "reporting_manager": 4,
+    "contact_number": 98764372
+  },
+  {
+    "id": 5,
+    "firstName": "Jeffy",
+    "lastName": "Corkel",
+    "email": "jcorkel4@oracle.com",
+    "skill": ["HTML,CSS,Java Script,Express JS,SQL"],
+    "reporting_manager": 5,
+    "contact_number": 98764372
+  },
+  {
+    "id": 6,
+    "firstName": "Robby",
+    "lastName": "Kynge",
+    "email": "rkynge5@youtube.com",
+    "skill": ["HTML,CSS,Js,Express JS,SQL"],
+    "reporting_manager": 1,
+    "contact_number": 98764372
+  },
+  {
+    "id": 7,
+    "firstName": "Hyacinth",
+    "lastName": "Wank",
+    "email": "hwank6@wikimedia.org",
+    "skill": ["HTML,", "CSS,", "Js,", "Express JS,", "SQL"],
+    "reporting_manager": 3,
+    "contact_number": 98764372
+  },
+  {
+    "id": 8,
+    "firstName": "Barbara-anne",
+    "lastName": "Tartt",
+    "email": "btartt7@theatlantic.com",
+    "skill": ["Java,", "Python,", "Kotlin"],
+    "reporting_manager": 2,
+    "contact_number": 98764372
+  },
+  {
+    "id": 9,
+    "firstName": "Carolyne",
+    "lastName": "Keaton",
+    "email": "ckeaton8@stumbleupon.com",
+    "skill": ["Java,", "Python,", "Kotlin"],
+    "reporting_manager": 4,
+    "contact_number": 98764372
+  },
+  {
+    "id": 10,
+    "firstName": "Ardenia",
+    "lastName": "McElvine",
+    "email": "amcelvine9@github.io",
+    "skill": ["Java Script,", "Nodejs", "ReactJS"],
+    "reporting_manager": 5,
+    "contact_number": 98764372
+  },
+  {
+    "id": 11,
+    "firstName": "Rene",
+    "lastName": "Hallworth",
+    "email": "rhallwortha@cbsnews.com",
+    "skill": [
+      "HTMl,",
+      "CSS,",
+      "Bootstrap,",
+      "Java Script,",
+      "Nodejs,",
+      "ReactJS"
+    ],
+    "reporting_manager": 1,
+    "contact_number": 98764372
+  },
+  {
+    "id": 12,
+    "firstName": "Hailey",
+    "lastName": "Odde",
+    "email": "hoddeb@spiegel.de",
+    "skill": ["Data Analystic,", "SQL,", "JAVA"],
+    "reporting_manager": 3,
+    "contact_number": 98764372
+  },
+  {
+    "id": 13,
+    "firstName": "Lizzie",
+    "lastName": "Ferrick",
+    "email": "lferrickc@arstechnica.com",
+    "skill": ["Data Analystic,", "SQL,", "JAVA"],
+    "reporting_manager": 2,
+    "contact_number": 98764372
+  },
+  {
+    "id": 14,
+    "firstName": "Dun",
+    "lastName": "Rehn",
+    "email": "drehnd@blogs.com",
+    "skill": ["Java Script,", "React JS,"],
+    "reporting_manager": 4,
+    "contact_number": 98764372
+  },
+  {
+    "id": 15,
+    "firstName": "Ludvig",
+    "lastName": "Bucher",
+    "email": "lbuchere@msu.edu",
+    "skill": ["JAVA"],
+    "reporting_manager": 5,
+    "contact_number": 98764372
+  },
+  {
+    "id": 16,
+    "firstName": "Anna-maria",
+    "lastName": "Halvosen",
+    "email": "ahalvosenf@mlb.com",
+    "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
+    "reporting_manager": 1,
+    "contact_number": 98764372
+  },
+  {
+    "id": 1,
+    "firstName": "Eudora",
+    "lastName": "Hast",
+    "email": "ehastg@jimdo.com",
+    "skill": ["Kotlin,", "Java Script"],
+    "reporting_manager": 2,
+    "contact_number": 98764372
+  },
+  {
+    "id": 18,
+    "firstName": "Annemarie",
+    "lastName": "Gartland",
+    "email": "agartlandh@1und1.de",
+    "skill": ["HTML,", "CSS,", "Java Script,", "React JS,", "Express js"],
+    "reporting_manager": 3,
+    "contact_number": 98764372
+  },
+  {
+    "id": 19,
+    "firstName": "Theda",
+    "lastName": "Balser",
+    "email": "tbalseri@dailymotion.com",
+    "skill": ["Java Script,", "Python,", "Express js"],
+    "reporting_manager": 4,
+    "contact_number": 98764372
+  },
+  {
+    "id": 20,
+    "firstName": "Fitzgerald",
+    "lastName": "Challener",
+    "email": "fchallenerj@berkeley.edu",
+    "skill": ["SQL", "Express js"],
+    "reporting_manager": 5,
+    "contact_number": 98764372
+  }
+]

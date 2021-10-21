@@ -35,7 +35,7 @@ h2{
   justify-content: center; 
   align-items: center;
   margin: 1rem 0;
-  
+  flex-wrap: wrap;
 }
 /* for modal div */
 
@@ -80,15 +80,15 @@ h2{
 
 .modal-content .card {
   text-align: center;
-   /* background-color: aqua; */
   position: relative;
   left: 50%;
   transform: translate(-50%);
+  padding: 1rem;
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 30%;
+  width: 40%;
   margin: 1rem;
 }
 
@@ -136,8 +136,32 @@ h2{
   border: 0px;
   color: #fff;
   font-weight: 500;
+  margin-bottom: 1rem;
 }
 
 .SearchButton:hover {
-  background-color: rgba(108, 65, 233, .7);
+  background-color: rgba(100, 93, 121, 0.7);
+}
+
+/* for small screen */
+@media only screen and (max-width:768px) {
+   /* for card  */
+   .card-section {
+    flex-direction: column;
+      }
+.card {
+    width: 100%;
+    margin: 1rem 0;
+}
+.close-modal {
+ 
+  top: 0.2rem;
+  right: 2rem;
+
+}
+
+}
+
+@media only screen and (max-width:768px){
+
 }
