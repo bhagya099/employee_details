@@ -2,6 +2,36 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Create a project to see All Employees-details by serach their skill name (Skill what they have).
+
+## Task 
+
+1. Serach all the Employees details by their skills.
+2. On search result Employee details will  give result with their Manager name and all the details of Manager.
+
+## Langauge what I used -
+1. React Js 
+2. Css (To make page layout)
+
+
+## How does it go. 
+
+1. I created a JSON Data(mock) for employyes and manager.
+2. I connected Employee and Manager with the id(like in Employee id 1 reprting manager will id with number 22).
+3. After displaing the result I use a button to see Manager details.
+4. I used "onchange" state (React hook) to getting results.  
+
+
+## In future
+1. I want to add Manager's Manager details and will show the details of Manager in between search bar and Employee details result (not as a pop up window).
+2. Will add a "FORM" to add new Employee details.
+3. To make it editable Employee skill(or want to add more skill). But only login in Employee can edit his/her details (skill).
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
